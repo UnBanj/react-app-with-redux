@@ -1,3 +1,5 @@
+We will be creating a basic application where we can add and remove items in a cart. We will manage the state changes in the Redux store and display the information in the UI.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
